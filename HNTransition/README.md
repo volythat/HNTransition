@@ -2,6 +2,8 @@
 
 HNTransition is a simple transition (similar page view controller) for UINavigationController
 
+<img src="https://github.com/volythat/HNTransition/blob/master/hntransition.gif" />
+
 ## Install
 
 Drag & drop Sources folder into your project
