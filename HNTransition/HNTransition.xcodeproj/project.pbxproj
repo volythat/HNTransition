@@ -11,8 +11,6 @@
 		7E366B921E851A4F00877E7F /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E366B911E851A4F00877E7F /* ViewController2.swift */; };
 		7E559C8D1E86105900CE437D /* HNInteractive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E559C8B1E86105900CE437D /* HNInteractive.swift */; };
 		7E559C8E1E86105900CE437D /* HNTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E559C8C1E86105900CE437D /* HNTransition.swift */; };
-		7E559C911E8611F200CE437D /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 7E559C8F1E8611F200CE437D /* LICENSE */; };
-		7E559C921E8611F200CE437D /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 7E559C901E8611F200CE437D /* README.md */; };
 		7E559C941E862F2E00CE437D /* HNNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E559C931E862F2E00CE437D /* HNNavigationController.swift */; };
 		7ED45CB11E836AD2000C7A72 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED45CB01E836AD2000C7A72 /* AppDelegate.swift */; };
 		7ED45CB31E836AD2000C7A72 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED45CB21E836AD2000C7A72 /* ViewController.swift */; };
@@ -26,8 +24,6 @@
 		7E366B911E851A4F00877E7F /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		7E559C8B1E86105900CE437D /* HNInteractive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HNInteractive.swift; sourceTree = "<group>"; };
 		7E559C8C1E86105900CE437D /* HNTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HNTransition.swift; sourceTree = "<group>"; };
-		7E559C8F1E8611F200CE437D /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		7E559C901E8611F200CE437D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7E559C931E862F2E00CE437D /* HNNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HNNavigationController.swift; sourceTree = "<group>"; };
 		7ED45CAD1E836AD2000C7A72 /* HNTransition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HNTransition.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7ED45CB01E836AD2000C7A72 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -62,8 +58,6 @@
 		7ED45CA41E836AD2000C7A72 = {
 			isa = PBXGroup;
 			children = (
-				7E559C8F1E8611F200CE437D /* LICENSE */,
-				7E559C901E8611F200CE437D /* README.md */,
 				7E559C8A1E86105900CE437D /* Sources */,
 				7ED45CAF1E836AD2000C7A72 /* HNTransition */,
 				7ED45CAE1E836AD2000C7A72 /* Products */,
@@ -154,7 +148,6 @@
 			files = (
 				7ED45CBB1E836AD2000C7A72 /* LaunchScreen.storyboard in Resources */,
 				7ED45CB81E836AD2000C7A72 /* Assets.xcassets in Resources */,
-				7E559C911E8611F200CE437D /* LICENSE in Resources */,
 				7ED45CB61E836AD2000C7A72 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -170,7 +163,6 @@
 				7E559C941E862F2E00CE437D /* HNNavigationController.swift in Sources */,
 				7ED45CB31E836AD2000C7A72 /* ViewController.swift in Sources */,
 				7E559C8E1E86105900CE437D /* HNTransition.swift in Sources */,
-				7E559C921E8611F200CE437D /* README.md in Sources */,
 				7ED45CB11E836AD2000C7A72 /* AppDelegate.swift in Sources */,
 				7E559C8D1E86105900CE437D /* HNInteractive.swift in Sources */,
 				7E366B921E851A4F00877E7F /* ViewController2.swift in Sources */,
